@@ -26,7 +26,7 @@ El cuestionario GitHub-Alu fue completado exitosamente como parte de la práctic
 
 ## Crear un project board kanban para este repositorio
 
-![project board kanban](docs/project_board.png)
+![project board kanban](docs/kanban_update.png)
 
 ## Solicitud del Student Developer Pack  
 Solicité el **Student Developer Pack** de GitHub, que incluye:  
