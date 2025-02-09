@@ -22,7 +22,7 @@ El cuestionario GitHub-Alu fue completado exitosamente como parte de la práctic
 
 ## Crear equipo con nombre correcto
 
-![equipo](docs/equipo.png)
+![equipo](docs/Captura desde 2025-02-09 17-44-29.png)
 
 ## Crear un project board kanban para este repositorio
 
