@@ -34,7 +34,5 @@ Solicité el **Student Developer Pack** de GitHub, que incluye:
 - Créditos en plataformas como DigitalOcean y Heroku.  
 - Acceso a herramientas premium como GitHub Copilot.  
 
-![github backpack](docs/backpack.png)
-
 ## Entrega del `.zip` en Moodle  
 El repositorio ha sido descargado en formato `.zip` y subido a la plataforma Moodle como parte de la entrega.  
