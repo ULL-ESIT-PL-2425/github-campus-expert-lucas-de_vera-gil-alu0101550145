@@ -18,7 +18,7 @@ Para aceptar la asignación, seguí los siguientes pasos:
 ## Cuestionario GitHub-Alu  
 El cuestionario GitHub-Alu fue completado exitosamente como parte de la práctica.  
 
-![correo de confirmacion del cuestionario](docs/correo_cuestionario.png)
+![correo de confirmacion del cuestionario](docs/Formulario.png)
 
 ## Crear equipo con nombre correcto
 
